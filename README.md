@@ -24,7 +24,7 @@ I believe Web3 is the key to a more open and fair world. From Jakarta to global 
 
 ## Fun Facts
 - I make Web3 TikTok videos using CapCut.
-- Once coded on my Vivo while waiting for an ojek. 😅
+- Once coded on my low spec device. 😅
 - Dream: Build a dApp used by millions!
 
 ---
